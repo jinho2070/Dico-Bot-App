@@ -1,1 +1,1 @@
-# disco-bot
+# Discord-ChatBot
