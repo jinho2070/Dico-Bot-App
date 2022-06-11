@@ -1,1 +1,1 @@
-# dico_bot_app
+# disco-bot
